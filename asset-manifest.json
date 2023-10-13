@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/delve-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/delve-portfolio/static/js/main.3941794d.js",
+    "main.js": "/delve-portfolio/static/js/main.a8eaa796.js",
     "static/js/787.dd6100b2.chunk.js": "/delve-portfolio/static/js/787.dd6100b2.chunk.js",
     "index.html": "/delve-portfolio/index.html",
     "main.073c9b0a.css.map": "/delve-portfolio/static/css/main.073c9b0a.css.map",
-    "main.3941794d.js.map": "/delve-portfolio/static/js/main.3941794d.js.map",
+    "main.a8eaa796.js.map": "/delve-portfolio/static/js/main.a8eaa796.js.map",
     "787.dd6100b2.chunk.js.map": "/delve-portfolio/static/js/787.dd6100b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3941794d.js"
+    "static/js/main.a8eaa796.js"
   ]
 }
